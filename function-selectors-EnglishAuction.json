@@ -1,0 +1,10 @@
+{
+  "bid(bytes32)": "957bb1e0",
+  "claimNft(address,uint256)": "43800968",
+  "deposit(address,uint256,uint48,uint256)": "a3ddb7d8",
+  "getAuctionId(address,uint256)": "3ff9d326",
+  "onERC721Received(address,address,uint256,bytes)": "150b7a02",
+  "s_auctions(bytes32)": "248b12f8",
+  "sellerEndAuction(address,uint256)": "b20a3a86",
+  "withdrawBid(bytes32)": "f7fd24c7"
+}
